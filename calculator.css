@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  border: 3px solid blue;
+  height: 400px;
+  width: 250px;
+  background-color: blue;
+  border-radius: 8px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+}
+input {
+  border: 2px solid blue;
+  height: 80px;
+  text-align: end;
+  font-weight: bold;
+  width: 240px;
+  font-size: 30px;
+  color: black;
+}
+.box2 {
+  position: relative;
+  top: 20px;
+}
+button {
+  width: 60px;
+  height: 40px;
+  column-gap: 10px;
+  background-color: gray;
+  color: black;
+  font-weight: bold;
+  border-radius: 28px;
+  position: relative;
+  left: 20px;
+  cursor: pointer;
+}
+.row1 {
+  position: relative;
+  bottom: 10px;
+  background-color: white;
+  border: 1px solid white;
+}
+.row6 {
+  position: relative;
+  top: 40px;
+  background-color: green;
+  border: 1px solid green;
+}
+.row5 {
+  position: relative;
+  top: 30px;
+  background-color: white;
+}
+.row4 {
+  position: relative;
+  top: 20px;
+  background-color: white;
+}
+.row3 {
+  position: relative;
+  top: 10px;
+  background-color: white;
+  border: 1px solid white;
+}
+.row2 {
+  background-color: white;
+  border: 1px solid white;
+}
